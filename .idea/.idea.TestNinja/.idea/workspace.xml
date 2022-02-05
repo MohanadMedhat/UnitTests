@@ -22,27 +22,22 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/eb/90a88c1a/Stack.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A6C194-5F57-4474-95FC-AD42118554C7/94/79c53fce/WebException.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/10A0A7E9-1237-41FB-A5A1-669E0EBEDE15/55/SetupPhrase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0C69B98-D4DA-4342-A70F-9B139B717B6D/d7/90de7019/Assert.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1BBB9E5-A742-475F-B87A-7E0233E674DB/b8/e0194f35/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0C69B98-D4DA-4342-A70F-9B139B717B6D/bb/9442cb22/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A6C194-5F57-4474-95FC-AD42118554C7/b0/552207fe/WebClient.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/29A6C194-5F57-4474-95FC-AD42118554C7/c6/378e384c/02000167.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -68,9 +63,9 @@
       <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
       <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeControllerTests.cs" />
       <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
-      <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
-      <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
       <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeRedirect.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
     </changedPaths>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -132,14 +127,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34950384" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34940413" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -182,6 +179,7 @@
       <workItem from="1626437481572" duration="1490000" />
       <workItem from="1643243399037" duration="8669000" />
       <workItem from="1643940624365" duration="919000" />
+      <workItem from="1644005713180" duration="7879000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
