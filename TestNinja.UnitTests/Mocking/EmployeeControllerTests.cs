@@ -9,14 +9,12 @@ namespace TestNinja.UnitTests.Mocking
     {
         private EmployeeController _controller;
         private Mock<IEmployeeStorage> _storage;
-        private Mock<IEmployeeRedirect> _redirect;
 
         [SetUp]
         public void Setup()
         {
             _storage = new Mock<IEmployeeStorage>();
-            _redirect = new Mock<IEmployeeRedirect>();
-            _controller = new EmployeeController(_storage.Object, _redirect.Object);
+            _controller = new EmployeeController(_storage.Object);
         }
 
         [Test]
